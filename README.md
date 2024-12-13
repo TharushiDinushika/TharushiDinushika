@@ -8,7 +8,7 @@ I am seeking opportunities to grow through practical experience in the field of 
 
 * 🌍  I'm based in Colombo, Sri Lanka.
 * ✉️  You can contact me at [tharushi.edinushika@gmail.com](mailto:tharushi.edinushika@gmail.com)
-* 🧠  I'm learning TensorFlow and PyTorch
+* 🧠  I'm learning Machine Learning and Artificial Neural Networks
 
 <a href="https://www.github.com/TharushiDinushika" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TharushiDinushika?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
