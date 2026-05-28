@@ -10,8 +10,9 @@ I am seeking opportunities to grow through practical experience in the field of 
 * ✉️  You can contact me at [tharushi.edinushika@gmail.com](mailto:tharushi.edinushika@gmail.com)
 * 🧠  I'm learning Deep Reinforcement Learning(DRL) and MARL.
 
-<a href="https://www.github.com/TharushiDinushika" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TharushiDinushika?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TharushiDinushika.TharushiDinushika&"  />
+</div>
 
 ### Skills
 
